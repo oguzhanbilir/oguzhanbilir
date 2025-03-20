@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oğuzhan Bilir</h1>
 <h3 align="center">A software quality assurance from Turkey</h3>
 
-- 📫 How to reach me **oguz.bilir@outlook.com**
+- 📫 How to reach me **oguzhan.bilir16@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
