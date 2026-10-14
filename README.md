@@ -97,7 +97,7 @@
 | **[RadMap](https://github.com/oguzhanbilir/radMap)** | 3D Mapping | JavaScript, Three.js | Codeavour 3rd · Turkey Feb 2026 | [Site](https://oguzhanbilir.github.io/radMap/) |
 | **Asansör Projesi** | Smart Systems | — | TÜBİTAK 3rd · İzmir 2022 | — |
 | **[SAYA Sağlıklı Yaşam](https://github.com/oguzhanbilir/sayaApp)** | Health App | Mobile App | MEF Okulları 3rd · Turkey 2023 | [Repo](https://github.com/oguzhanbilir/sayaApp) |
-| **[Diş Perisi](https://github.com/oguzhanbilir/disPerisi)** | Mobile App | Mobile App | TEKNOFEST 10th · Turkey | [Repo](https://github.com/oguzhanbilir/disPerisi) |
+| **[Diş Perisi](https://github.com/oguzhanbilir/disPerisi)** | Mobile App | Mobile App | TEKNOFEST 10th · Turkey 2024 | [Repo](https://github.com/oguzhanbilir/disPerisi) |
 
 ---
 
