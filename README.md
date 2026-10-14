@@ -7,7 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oguzhanblr)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@oguzhan.bilir)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oguzhan.bilir16@gmail.com)
-![Profile views](https://komarev.com/ghpvc/?username=oguzhanbilir&color=00bcd4&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
