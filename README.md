@@ -16,6 +16,14 @@ AP Cybersecurity and ICT teacher with a full stack background, now moving into *
 
 Focus: **web security** · **accessibility** · **test automation**
 
+## 🎓 Teaching & mentoring
+
+- **11 years** teaching ICT and computer science in K-12 schools
+- **AP Cybersecurity Educator** — certified by the College Board
+- **Gemini Certified Educator** — Google for Education
+- Mentor to student teams at **TÜBİTAK 2204**, **Codeavour** (3rd in Turkey), and **Samsung Solve for Tomorrow** (finalist)
+- I teach by building: every course ends with something the student actually shipped
+
 ## 🚀 Selected work
 
 > **[🛡️ Güvenli İnternet Asistanı](https://github.com/oguzhanbilir/guvenli_internet_asistani)** — Phishing URL detection that scores addresses across technical, linguistic, and visual layers. FastAPI backend, Chrome extension, Selenium. [Live interface](https://oguzhanbilir.github.io/guvenli_internet_asistani/).
