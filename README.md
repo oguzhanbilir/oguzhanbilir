@@ -67,7 +67,7 @@
 | Yaşam Becerileri | TeacherX | Jan 2026 | |
 | Öğretmenin İyi Olma Hali | TeacherX | Oct 2025 | |
 | Veriye Dayalı Sınıf Yönetimi | TeacherX | Oct 2025 | |
-| **Gemini Certified Educator** | Google | Nov 2025 (valid until Nov 2028) | [🏅 Google Badge](https://www.google.com/url?q=https://www.credential.net/profile/oguzhan.bilir/) |
+| **Gemini Certified Educator** | Google | Nov 2025 (valid until Nov 2028) | [🏅 Verify Badge](https://edu.google.accredible.com/9ebeec57-aa0e-403e-b2ad-ab3cd9beed3a) |
 | Bilişim Garajı Hizmet İçi Eğitimi Katılım | Bilişim Garajı | Sep 2025 | |
 | Apple Teacher | Apple | Dec 2020 | [🏅 Apple Profile](https://appleteacher.apple.com/) |
 | Minecraft Education Edition | BGTS | Jun 2020 | |
