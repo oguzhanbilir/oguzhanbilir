@@ -26,58 +26,58 @@
 
 **33 Professional Certifications**
 
-### Yazılım Testi ve QA (3)
+### Software Testing & QA (3)
 | Certification | Issuer | Date |
 |---------------|--------|------|
 | Insider & Testinium Tech Hub Bootcamp Program | Insider One | Mar 2025 |
-| Test Otomasyon Patikası | Patika.dev | Mar 2025 |
-| Yazılım Testine Giriş | BTK Akademi | Feb 2025 |
+| Test Automation Path | Patika.dev | Mar 2025 |
+| Introduction to Software Testing | BTK Academy | Feb 2025 |
 
-### Yazılım, Veri Bilimi ve Yapay Zekâ (13)
+### Software, Data Science & AI (13)
 | Certification | Issuer | Date |
 |---------------|--------|------|
-| Uygulama Tabanlı Makine Öğrenimi | Turkcell Geleceği Yazanlar | Jun 2026 |
-| Versiyon Kontrolleri: Git ve GitHub | BTK Akademi | Mar 2026 |
-| Üretken Yapay Zekâya Giriş | BTK Akademi | Nov 2025 |
-| Yapay Zekâ Etiği | BTK Akademi | Nov 2025 |
-| Yapay Zeka Yaz Kampı 2025 | Miuul | Sep 2025 |
-| Python Programlama 201 | Turkcell Geleceği Yazanlar | Jun 2025 |
-| Python Programlama 101 | Turkcell Geleceği Yazanlar | Jun 2025 |
+| Applied Machine Learning | Turkcell Future Builders | Jun 2026 |
+| Version Control: Git and GitHub | BTK Academy | Mar 2026 |
+| Introduction to Generative AI | BTK Academy | Nov 2025 |
+| AI Ethics | BTK Academy | Nov 2025 |
+| AI Summer Camp 2025 | Miuul | Sep 2025 |
+| Python Programming 201 | Turkcell Future Builders | Jun 2025 |
+| Python Programming 101 | Turkcell Future Builders | Jun 2025 |
 | Data Engineering Essentials Boostcamp | Istanbul Data Science Academy | Jan 2025 |
 | Python Programming for Data Science | Miuul | Jan 2025 |
-| Veri Bilimi ve Yapay Zekaya Giriş | Turkcell | Dec 2024 |
+| Introduction to Data Science and AI | Turkcell | Dec 2024 |
 | Data Science and AI Engineering Mini Boot Camp | Miuul | Dec 2024 |
 | Data Analyst V2 Boostcamp | Istanbul Data Science Academy | Feb 2024 |
-| Yapay Zeka Eğitimi | Istanbul Data Science Academy | Nov 2023 |
+| AI Fundamentals | Istanbul Data Science Academy | Nov 2023 |
 
-### Siber Güvenlik ve BT (3)
+### Cybersecurity & IT (3)
 | Certification | Issuer | Date | Credential |
 |---------------|--------|------|-----------|
 | **Advanced Placement® (AP) Cybersecurity Educator** | The College Board | Aug 2026 | [🏅 Verify](https://apcentral.collegeboard.org/courses/ap-cybersecurity/credential) |
-| Temel Kriptoloji | BTK Akademi | Mar 2026 | |
+| Cryptography Fundamentals | BTK Academy | Mar 2026 | |
 | IT Essentials: PC Hardware and Software | Cisco | Mar 2015 | [🏅 Credly Badge](https://www.credly.com/org/cisco/badge/it-essentials) |
 
-### Eğitim ve Eğitim Teknolojileri (13)
+### Education & Educational Technology (13)
 | Certification | Issuer | Date | Credential |
 |---------------|--------|------|-----------|
-| Şiddetsiz İletişim ve Geri Bildirim | TeacherX | Jan 2026 | |
-| Maarif Modeli Çerçevesinde Beceri Eğitimi | TeacherX | Jan 2026 | |
-| Eğitimin Fabrika Ayarları | TeacherX | Jan 2026 | |
-| Eğiticinin Eğitimi | TeacherX | Jan 2026 | |
-| Yaşam Becerileri | TeacherX | Jan 2026 | |
-| Öğretmenin İyi Olma Hali | TeacherX | Oct 2025 | |
-| Veriye Dayalı Sınıf Yönetimi | TeacherX | Oct 2025 | |
+| Nonviolent Communication and Feedback | TeacherX | Jan 2026 | |
+| Skills Education in the National Education Model | TeacherX | Jan 2026 | |
+| Education Factory Settings | TeacherX | Jan 2026 | |
+| Teacher Training | TeacherX | Jan 2026 | |
+| Life Skills | TeacherX | Jan 2026 | |
+| Teacher Wellness & Well-being | TeacherX | Oct 2025 | |
+| Data-Driven Classroom Management | TeacherX | Oct 2025 | |
 | **Gemini Certified Educator** | Google | Nov 2025 (valid until Nov 2028) | [🏅 Verify Badge](https://edu.google.accredible.com/9ebeec57-aa0e-403e-b2ad-ab3cd9beed3a) |
-| Bilişim Garajı Hizmet İçi Eğitimi Katılım | Bilişim Garajı | Sep 2025 | |
+| IT Garage Professional Development | IT Garage | Sep 2025 | |
 | Apple Teacher | Apple | Dec 2020 | |
 | Minecraft Education Edition | BGTS | Jun 2020 | |
-| Dokuz Tip Mizaç Modeli | Mizmer | Oct 2019 | |
+| Enneagram: Nine Types Model | Mizmer | Oct 2019 | |
 | Microsoft Innovative Educator | Microsoft | Sep 2018 | [🏅 Credly Badge](https://www.credly.com/org/microsoft-elevate/badge/microsoft-innovative-educator-expert-2025-2026) |
 
-### Başarı Belgesi (1)
+### Achievement Certificates (1)
 | Certification | Issuer | Date |
 |---------------|--------|------|
-| 2024 TEKNOFEST Başarı Sertifikası | TEKNOFEST | Oct 2024 |
+| 2024 TEKNOFEST Achievement Certificate | TEKNOFEST | Oct 2024 |
 
 **Teaching & Mentoring:**
 - **TÜBİTAK 2204-A** (Phishing detection) — 2nd place, Adana regional, Feb 2026
@@ -91,13 +91,13 @@
 
 | Project | Domain | Tech | Award | Demo |
 |---------|--------|------|-------|------|
-| **[Güvenli İnternet Asistanı](https://github.com/oguzhanbilir/guvenli_internet_asistani)** | Web Security | FastAPI, Chrome Ext, Selenium | TÜBİTAK 2nd · Adana Feb 2026 | [Live](https://oguzhanbilir.github.io/guvenli_internet_asistani/) |
+| **[Secure Internet Assistant](https://github.com/oguzhanbilir/guvenli_internet_asistani)** | Web Security | FastAPI, Chrome Ext, Selenium | TÜBİTAK 2nd · Adana Feb 2026 | [Live](https://oguzhanbilir.github.io/guvenli_internet_asistani/) |
 | **[Amazon UI Test Suite](https://github.com/oguzhanbilir/amazon-automation-test-case-with-selenium-pom)** | QA Automation | Selenium, POM, pytest, CI/CD | Production-ready | [Repo](https://github.com/oguzhanbilir/amazon-automation-test-case-with-selenium-pom) |
-| **[Duyusal Rahatlık](https://github.com/oguzhanbilir/duyusalRahatlik)** | Accessibility | JS, HTML/CSS, WCAG | TÜBİTAK 2nd · İzmir 2024 | [Extension](https://oguzhanbilir.github.io/duyusalRahatlik/) |
+| **[Sensory Comfort](https://github.com/oguzhanbilir/duyusalRahatlik)** | Accessibility | JS, HTML/CSS, WCAG | TÜBİTAK 2nd · Izmir 2024 | [Extension](https://oguzhanbilir.github.io/duyusalRahatlik/) |
 | **[RadMap](https://github.com/oguzhanbilir/radMap)** | 3D Mapping | JavaScript, Three.js | Codeavour 3rd · Turkey Feb 2026 | [Site](https://oguzhanbilir.github.io/radMap/) |
-| **Asansör Projesi** | Smart Systems | — | TÜBİTAK 3rd · İzmir 2022 | — |
-| **[SAYA Sağlıklı Yaşam](https://github.com/oguzhanbilir/sayaApp)** | Health App | Mobile App | MEF Okulları 3rd · Turkey 2023 | [Repo](https://github.com/oguzhanbilir/sayaApp) |
-| **[Diş Perisi](https://github.com/oguzhanbilir/disPerisi)** | Mobile App | Mobile App | TEKNOFEST 10th · Turkey 2024 | [Repo](https://github.com/oguzhanbilir/disPerisi) |
+| **Elevator Project** | Smart Systems | — | TÜBİTAK 3rd · Izmir 2022 | — |
+| **[SAYA Healthy Living](https://github.com/oguzhanbilir/sayaApp)** | Health App | Mobile App | MEF Schools 3rd · Turkey 2023 | [Repo](https://github.com/oguzhanbilir/sayaApp) |
+| **[Tooth Fairy](https://github.com/oguzhanbilir/disPerisi)** | Mobile App | Mobile App | TEKNOFEST 10th · Turkey 2024 | [Repo](https://github.com/oguzhanbilir/disPerisi) |
 
 ---
 
