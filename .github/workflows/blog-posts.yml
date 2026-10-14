@@ -21,4 +21,4 @@ jobs:
         with:
           feed_list: "https://medium.com/feed/@oguzhan.bilir"
           max_post_count: 5
-          template: "- [$title]($url)<br>"
+          template: "- [$title]($url)$newline"
