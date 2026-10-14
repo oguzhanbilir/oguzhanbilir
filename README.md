@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1e3f,100:00bcd4&height=200&section=header&text=O%C4%9Fuzhan%20Bilir&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=AP%20Cybersecurity%20%C2%B7%20Full%20Stack%20Developer%20%C2%B7%20QA%20Automation&descSize=17&descAlignY=58" width="100%" alt="Oğuzhan Bilir" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1e3f,100:00bcd4&height=200&section=header&text=O%C4%9Fuzhan%20Bilir&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=AP%20Cybersecurity%20%26%20ICT%20Teacher%20%C2%B7%20Full%20Stack%20Developer%20%C2%B7%20QA%20Automation&descSize=16&descAlignY=58" width="100%" alt="Oğuzhan Bilir" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&center=true&vCenter=true&width=560&color=00BCD4&lines=Securing+the+web%2C+one+project+at+a+time;Teaching+AP+Cybersecurity+%26+ICT;Testing+software+like+someone+who+built+it)](https://www.linkedin.com/in/oguzhanblr)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oguzhanblr)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@oguzhan.bilir)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oguzhan.bilir16@gmail.com)
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
 
 </div>
 
@@ -55,6 +57,15 @@ Focus: **web security** · **accessibility** · **test automation**
 <img width="100%" src="https://raw.githubusercontent.com/oguzhanbilir/oguzhanbilir/output/snake-dark.svg" alt="contribution snake" />
 
 </div>
+
+## 📝 Writing
+
+I write about software testing, web fundamentals, AI, and teaching on Medium.
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+[See all posts on Medium →](https://medium.com/@oguzhan.bilir)
 
 ## 📫 Contact
 
