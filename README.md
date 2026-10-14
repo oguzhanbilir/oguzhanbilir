@@ -51,28 +51,28 @@
 | Yapay Zeka Eğitimi | Istanbul Data Science Academy | Nov 2023 |
 
 ### Siber Güvenlik ve BT (3)
-| Certification | Issuer | Date |
-|---------------|--------|------|
-| **Advanced Placement® (AP) Cybersecurity Educator** | The College Board | Aug 2026 |
-| Temel Kriptoloji | BTK Akademi | Mar 2026 |
-| IT Essentials: PC Hardware and Software | Cisco | Mar 2015 |
+| Certification | Issuer | Date | Credential |
+|---------------|--------|------|-----------|
+| **Advanced Placement® (AP) Cybersecurity Educator** | The College Board | Aug 2026 | [Verify](https://www.collegeboard.org/educators/k-12) |
+| Temel Kriptoloji | BTK Akademi | Mar 2026 | [View](https://www.btkakademi.gov.tr/) |
+| IT Essentials: PC Hardware and Software | Cisco | Mar 2015 | [Verify](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/entry-level/it-essentials.html) |
 
 ### Eğitim ve Eğitim Teknolojileri (13)
-| Certification | Issuer | Date |
-|---------------|--------|------|
-| Şiddetsiz İletişim ve Geri Bildirim | TeacherX | Jan 2026 |
-| Maarif Modeli Çerçevesinde Beceri Eğitimi | TeacherX | Jan 2026 |
-| Eğitimin Fabrika Ayarları | TeacherX | Jan 2026 |
-| Eğiticinin Eğitimi | TeacherX | Jan 2026 |
-| Yaşam Becerileri | TeacherX | Jan 2026 |
-| Öğretmenin İyi Olma Hali | TeacherX | Oct 2025 |
-| Veriye Dayalı Sınıf Yönetimi | TeacherX | Oct 2025 |
-| **Gemini Certified Educator** | Google | Nov 2025 (valid until Nov 2028) |
-| Bilişim Garajı Hizmet İçi Eğitimi Katılım | Bilişim Garajı | Sep 2025 |
-| Apple Teacher | Apple | Dec 2020 |
-| Minecraft Education Edition | BGTS | Jun 2020 |
-| Dokuz Tip Mizaç Modeli | Mizmer | Oct 2019 |
-| Microsoft Innovative Educator | Microsoft | Sep 2018 |
+| Certification | Issuer | Date | Credential |
+|---------------|--------|------|-----------|
+| Şiddetsiz İletişim ve Geri Bildirim | TeacherX | Jan 2026 | |
+| Maarif Modeli Çerçevesinde Beceri Eğitimi | TeacherX | Jan 2026 | |
+| Eğitimin Fabrika Ayarları | TeacherX | Jan 2026 | |
+| Eğiticinin Eğitimi | TeacherX | Jan 2026 | |
+| Yaşam Becerileri | TeacherX | Jan 2026 | |
+| Öğretmenin İyi Olma Hali | TeacherX | Oct 2025 | |
+| Veriye Dayalı Sınıf Yönetimi | TeacherX | Oct 2025 | |
+| **Gemini Certified Educator** | Google | Nov 2025 (valid until Nov 2028) | [🏅 Google Badge](https://www.google.com/url?q=https://www.credential.net/profile/oguzhan.bilir/) |
+| Bilişim Garajı Hizmet İçi Eğitimi Katılım | Bilişim Garajı | Sep 2025 | |
+| Apple Teacher | Apple | Dec 2020 | [🏅 Apple Profile](https://appleteacher.apple.com/) |
+| Minecraft Education Edition | BGTS | Jun 2020 | |
+| Dokuz Tip Mizaç Modeli | Mizmer | Oct 2019 | |
+| Microsoft Innovative Educator | Microsoft | Sep 2018 | [🏅 Microsoft](https://www.microsoft.com/en-us/education/innovativeeducator) |
 
 ### Başarı Belgesi (1)
 | Certification | Issuer | Date |
