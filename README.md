@@ -95,6 +95,9 @@
 | **[Amazon UI Test Suite](https://github.com/oguzhanbilir/amazon-automation-test-case-with-selenium-pom)** | QA Automation | Selenium, POM, pytest, CI/CD | Production-ready | [Repo](https://github.com/oguzhanbilir/amazon-automation-test-case-with-selenium-pom) |
 | **[Duyusal Rahatlık](https://github.com/oguzhanbilir/duyusalRahatlik)** | Accessibility | JS, HTML/CSS, WCAG | TÜBİTAK 2nd · İzmir 2024 | [Extension](https://oguzhanbilir.github.io/duyusalRahatlik/) |
 | **[RadMap](https://github.com/oguzhanbilir/radMap)** | 3D Mapping | JavaScript, Three.js | Codeavour 3rd · Turkey Feb 2026 | [Site](https://oguzhanbilir.github.io/radMap/) |
+| **Asansör Projesi** | Smart Systems | — | TÜBİTAK 3rd · İzmir 2022 | — |
+| **SAYA Sağlıklı Yaşam** | Health App | Mobile App | MEF Okulları 3rd · Turkey 2023 | — |
+| **Diş Perisi** | Mobile App | Mobile App | TEKNOFEST 10th · Turkey | — |
 
 ---
 
