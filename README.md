@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1e3f,100:00bcd4&height=200&section=header&text=O%C4%9Fuzhan%20Bilir&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=AP%20Cybersecurity%20%26%20ICT%20Teacher%20%C2%B7%20Full%20Stack%20Developer%20%C2%B7%20QA%20Automation&descSize=16&descAlignY=58" width="100%" alt="Oğuzhan Bilir" />
+<img src="./banner.svg" width="100%" alt="Oğuzhan Bilir — AP Cybersecurity & ICT Teacher, Full Stack Developer, QA Automation" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&center=true&vCenter=true&width=560&color=00BCD4&lines=Securing+the+web%2C+one+project+at+a+time;Teaching+AP+Cybersecurity+%26+ICT;Testing+software+like+someone+who+built+it)](https://www.linkedin.com/in/oguzhanblr)
 
@@ -72,6 +72,6 @@ I write about software testing, web fundamentals, AI, and teaching on Medium.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bcd4,100:0b1e3f&height=100&section=footer" width="100%" alt="" />
+<img src="./footer.svg" width="100%" alt="" />
 
 </div>
