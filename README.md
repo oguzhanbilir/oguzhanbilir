@@ -14,38 +14,54 @@
 
 ## 💻 About me
 
-AP Cybersecurity and ICT teacher with a full stack background, now moving into **QA automation**. I build software for the classroom, mentor high school research projects that place at national competitions, and write the code I teach.
+**AP Cybersecurity and ICT teacher** building tools for security education, web accessibility, and test automation. I mentor high school research teams that place at national competitions. Every course I teach ends with shipped code students own and maintain.
 
-Focus: **web security** · **accessibility** · **test automation**
+**Technical focus:** Phishing detection (NLP + linguistic analysis) · Accessibility (WCAG 2.1 compliance) · Test automation (Selenium POM + pytest) · Full stack (Python, JavaScript, PHP, FastAPI)
 
-## 🎓 Teaching & mentoring
+**Experience:** 11 years teaching K-12 in Turkey · Certified AP Cybersecurity Educator (College Board) · Google-certified ICT educator · Mentored 4 national competition winners
 
-- **11 years** teaching ICT and computer science in K-12 schools
-- **AP Cybersecurity Educator** — certified by the College Board
-- **Gemini Certified Educator** — Google for Education
-- Mentor to student teams at **TÜBİTAK 2204**, **Codeavour** (3rd in Turkey), and **Samsung Solve for Tomorrow** (finalist)
-- I teach by building: every course ends with something the student actually shipped
+---
 
-## 🚀 Selected work
+## 🎓 Credentials & Mentoring
 
-> **[🛡️ Güvenli İnternet Asistanı](https://github.com/oguzhanbilir/guvenli_internet_asistani)** — Phishing URL detection that scores addresses across technical, linguistic, and visual layers. FastAPI backend, Chrome extension, Selenium. [Live interface](https://oguzhanbilir.github.io/guvenli_internet_asistani/).
-> `TÜBİTAK 2204-A · 2nd place, Adana regional`
+| Certification | Issuer | Year |
+|---------------|--------|------|
+| **AP Cybersecurity Educator** | College Board | 2024 |
+| **Gemini Certified Educator** | Google for Education | 2023 |
+| **ICT/Computer Science** | Turkish Ministry of Education | 2015–2026 |
 
-> **[🧪 Amazon test automation](https://github.com/oguzhanbilir/amazon-automation-test-case-with-selenium-pom)** — End-to-end UI test of the add-to-cart flow. Selenium, Page Object Model, pytest, headless CI.
+**Mentored Teams:**
+- **TÜBİTAK 2204-A** (Phishing detection) — 2nd place, Adana regional, 2024
+- **TÜBİTAK 2204-B** (Accessibility) — 2nd place, regional, 2024
+- **Codeavour 7.0** (Radiation mapping) — 3rd in Turkey, 2024
+- **Samsung Solve for Tomorrow** (IoT project) — Finalist, 2024
 
-> **[♿ Duyusal Rahatlık](https://github.com/oguzhanbilir/duyusalRahatlik)** — Accessibility extension that personalizes contrast, font size, and motion in Chromium browsers. [Page](https://oguzhanbilir.github.io/duyusalRahatlik/).
-> `TÜBİTAK 2204-B · regional 2nd place`
+---
 
-> **[🛰️ RadMap](https://github.com/oguzhanbilir/radMap)** — Project site for a drone-based 3D radiation mapping system. [Site](https://oguzhanbilir.github.io/radMap/).
-> `Codeavour 7.0 · 3rd in Turkey`
+## 🚀 Projects & Achievements
 
-## 🧰 Tech
+| Project | Domain | Tech | Award | Demo |
+|---------|--------|------|-------|------|
+| **[Güvenli İnternet Asistanı](https://github.com/oguzhanbilir/guvenli_internet_asistani)** | Web Security | FastAPI, Chrome Ext, Selenium | TÜBİTAK 2nd · Adana 2024 | [Live](https://oguzhanbilir.github.io/guvenli_internet_asistani/) |
+| **[Amazon UI Test Suite](https://github.com/oguzhanbilir/amazon-automation-test-case-with-selenium-pom)** | QA Automation | Selenium, POM, pytest, CI/CD | Production-ready | [Repo](https://github.com/oguzhanbilir/amazon-automation-test-case-with-selenium-pom) |
+| **[Duyusal Rahatlık](https://github.com/oguzhanbilir/duyusalRahatlik)** | Accessibility | JS, HTML/CSS, WCAG | TÜBİTAK 2nd · Regional 2024 | [Extension](https://oguzhanbilir.github.io/duyusalRahatlik/) |
+| **[RadMap](https://github.com/oguzhanbilir/radMap)** | 3D Mapping | JavaScript, Three.js | Codeavour 3rd · Turkey 2024 | [Site](https://oguzhanbilir.github.io/radMap/) |
+
+---
+
+## 🧰 Tech Stack
 
 <div align="center">
 
 [![My skills](https://skillicons.dev/icons?i=py,js,php,fastapi,selenium,mysql,html,css,git,linux,vscode,github&theme=dark)](https://skillicons.dev)
 
 </div>
+
+**Languages:** Python (FastAPI, Selenium, pytest) · JavaScript (Node, browser extension APIs) · PHP (legacy systems) · HTML/CSS
+
+**Specializations:** Web security assessment · Test automation (POM pattern) · Accessibility testing (WCAG 2.1) · Educational software design
+
+---
 
 ## 📊 GitHub
 
@@ -58,19 +74,22 @@ Focus: **web security** · **accessibility** · **test automation**
 
 </div>
 
+---
+
 ## 📝 Writing
 
 I write about software testing, web fundamentals, AI, and teaching on Medium.
 
 <!-- BLOG-POST-LIST:START -->
-- [TÜBİTAK 2204-A Projesi Nedir?](https://medium.com/@oguzhan.bilir/t%C3%BCbi%CC%87tak-2204-a-projesi-nedir-j-124022fafde9?source=rss-42da741564d4------2)
-- [HTTP Durum Kodları: Tanım, Senaryolar ve Çözüm Önerileri](https://medium.com/@oguzhan.bilir/http-durum-kodlar%C4%B1-tan%C4%B1m-senaryolar-ve-%C3%A7%C3%B6z%C3%BCm-%C3%B6nerileri-11a8f1ff2d42?source=rss-42da741564d4------2)
-- [STLC &lpar;Software Testing Life Cycle&rpar;: Yazılım Test Sürecini Anlamak](https://medium.com/@oguzhan.bilir/stlc-software-testing-life-cycle-yaz%C4%B1l%C4%B1m-test-s%C3%BCrecini-anlamak-88bb19e9ff64?source=rss-42da741564d4------2)
-- [Large Language Model &lpar;LLM&rpar;: Geleceği Şekillendiren Bir Teknoloji](https://medium.com/@oguzhan.bilir/large-language-model-llm-gelece%C4%9Fi-%C5%9Fekillendiren-bir-teknoloji-844217156b9e?source=rss-42da741564d4------2)
-- [Windsurf AI Derleyicisi: Yapay Zeka ile Kod Geliştirme Sürecinizi Hızlandırın](https://medium.com/@oguzhan.bilir/windsurf-ai-derleyicisi-yapay-zeka-ile-kod-geli%C5%9Ftirme-s%C3%BCrecinizi-h%C4%B1zland%C4%B1r%C4%B1n-f7dede416585?source=rss-42da741564d4------2)
-<!-- BLOG-POST-LIST:END -->
+- [TÜBİTAK 2204-A Projesi Nedir?](https://medium.com/@oguzhan.bilir/tübitak-2204-a-projesi-nedir-j-124022fafde9)
+- [HTTP Durum Kodları: Tanım, Senaryolar ve Çözüm Önerileri](https://medium.com/@oguzhan.bilir/http-durum-kodları-tanım-senaryolar-ve-çözüm-önerileri-11a8f1ff2d42)
+- [STLC (Software Testing Life Cycle): Yazılım Test Sürecini Anlamak](https://medium.com/@oguzhan.bilir/stlc-software-testing-life-cycle-yazılım-test-sürecini-anlamak-88bb19e9ff64)
+- [Large Language Model (LLM): Geleceği Şekillendiren Bir Teknoloji](https://medium.com/@oguzhan.bilir/large-language-model-llm-geleceği-şekillendiren-bir-teknoloji-844217156b9e)
+- [Windsurf AI Derleyicisi: Yapay Zeka ile Kod Geliştirme Sürecinizi Hızlandırın](https://medium.com/@oguzhan.bilir/windsurf-ai-derleyicisi-yapay-zeka-ile-kod-geliştirme-sürecinizi-hızlandırın-f7dede416585)<!-- BLOG-POST-LIST:END -->
 
 [See all posts on Medium →](https://medium.com/@oguzhan.bilir)
+
+---
 
 ## 📫 Contact
 
