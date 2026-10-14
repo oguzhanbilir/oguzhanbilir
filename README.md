@@ -53,9 +53,9 @@
 ### Siber Güvenlik ve BT (3)
 | Certification | Issuer | Date | Credential |
 |---------------|--------|------|-----------|
-| **Advanced Placement® (AP) Cybersecurity Educator** | The College Board | Aug 2026 | [Verify](https://www.collegeboard.org/educators/k-12) |
-| Temel Kriptoloji | BTK Akademi | Mar 2026 | [View](https://www.btkakademi.gov.tr/) |
-| IT Essentials: PC Hardware and Software | Cisco | Mar 2015 | [Verify](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/entry-level/it-essentials.html) |
+| **Advanced Placement® (AP) Cybersecurity Educator** | The College Board | Aug 2026 | [🏅 Verify](https://apcentral.collegeboard.org/courses/ap-cybersecurity/credential) |
+| Temel Kriptoloji | BTK Akademi | Mar 2026 | |
+| IT Essentials: PC Hardware and Software | Cisco | Mar 2015 | [🏅 Credly Badge](https://www.credly.com/org/cisco/badge/it-essentials) |
 
 ### Eğitim ve Eğitim Teknolojileri (13)
 | Certification | Issuer | Date | Credential |
@@ -69,10 +69,10 @@
 | Veriye Dayalı Sınıf Yönetimi | TeacherX | Oct 2025 | |
 | **Gemini Certified Educator** | Google | Nov 2025 (valid until Nov 2028) | [🏅 Verify Badge](https://edu.google.accredible.com/9ebeec57-aa0e-403e-b2ad-ab3cd9beed3a) |
 | Bilişim Garajı Hizmet İçi Eğitimi Katılım | Bilişim Garajı | Sep 2025 | |
-| Apple Teacher | Apple | Dec 2020 | [🏅 Apple Profile](https://appleteacher.apple.com/) |
+| Apple Teacher | Apple | Dec 2020 | |
 | Minecraft Education Edition | BGTS | Jun 2020 | |
 | Dokuz Tip Mizaç Modeli | Mizmer | Oct 2019 | |
-| Microsoft Innovative Educator | Microsoft | Sep 2018 | [🏅 Microsoft](https://www.microsoft.com/en-us/education/innovativeeducator) |
+| Microsoft Innovative Educator | Microsoft | Sep 2018 | [🏅 Credly Badge](https://www.credly.com/org/microsoft-elevate/badge/microsoft-innovative-educator-expert-2025-2026) |
 
 ### Başarı Belgesi (1)
 | Certification | Issuer | Date |
