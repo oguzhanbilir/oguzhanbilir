@@ -42,7 +42,7 @@
 
 | Project | Domain | Tech | Award | Demo |
 |---------|--------|------|-------|------|
-| **[Güvenli İnternet Asistanı](https://github.com/oguzhanbilir/guvenli_internet_asistani)** | Web Security | FastAPI, Chrome Ext, Selenium | TÜBİTAK 2nd · Adana 2024 | [Live](https://oguzhanbilir.github.io/guvenli_internet_asistani/) |
+| **[Güvenli İnternet Asistanı](https://github.com/oguzhanbilir/guvenli_internet_asistani)** | Web Security | FastAPI, Chrome Ext, Selenium | TÜBİTAK 2nd · Adana 2026 | [Live](https://oguzhanbilir.github.io/guvenli_internet_asistani/) |
 | **[Amazon UI Test Suite](https://github.com/oguzhanbilir/amazon-automation-test-case-with-selenium-pom)** | QA Automation | Selenium, POM, pytest, CI/CD | Production-ready | [Repo](https://github.com/oguzhanbilir/amazon-automation-test-case-with-selenium-pom) |
 | **[Duyusal Rahatlık](https://github.com/oguzhanbilir/duyusalRahatlik)** | Accessibility | JS, HTML/CSS, WCAG | TÜBİTAK 2nd · Regional 2024 | [Extension](https://oguzhanbilir.github.io/duyusalRahatlik/) |
 | **[RadMap](https://github.com/oguzhanbilir/radMap)** | 3D Mapping | JavaScript, Three.js | Codeavour 3rd · Turkey 2024 | [Site](https://oguzhanbilir.github.io/radMap/) |
