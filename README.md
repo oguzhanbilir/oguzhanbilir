@@ -81,11 +81,12 @@
 I write about software testing, web fundamentals, AI, and teaching on Medium.
 
 <!-- BLOG-POST-LIST:START -->
-- [TÜBİTAK 2204-A Projesi Nedir?](https://medium.com/@oguzhan.bilir/tübitak-2204-a-projesi-nedir-j-124022fafde9)
-- [HTTP Durum Kodları: Tanım, Senaryolar ve Çözüm Önerileri](https://medium.com/@oguzhan.bilir/http-durum-kodları-tanım-senaryolar-ve-çözüm-önerileri-11a8f1ff2d42)
-- [STLC (Software Testing Life Cycle): Yazılım Test Sürecini Anlamak](https://medium.com/@oguzhan.bilir/stlc-software-testing-life-cycle-yazılım-test-sürecini-anlamak-88bb19e9ff64)
-- [Large Language Model (LLM): Geleceği Şekillendiren Bir Teknoloji](https://medium.com/@oguzhan.bilir/large-language-model-llm-geleceği-şekillendiren-bir-teknoloji-844217156b9e)
-- [Windsurf AI Derleyicisi: Yapay Zeka ile Kod Geliştirme Sürecinizi Hızlandırın](https://medium.com/@oguzhan.bilir/windsurf-ai-derleyicisi-yapay-zeka-ile-kod-geliştirme-sürecinizi-hızlandırın-f7dede416585)<!-- BLOG-POST-LIST:END -->
+- [TÜBİTAK 2204-A Projesi Nedir?](https://medium.com/@oguzhan.bilir/t%C3%BCbi%CC%87tak-2204-a-projesi-nedir-j-124022fafde9?source=rss-42da741564d4------2)
+- [HTTP Durum Kodları: Tanım, Senaryolar ve Çözüm Önerileri](https://medium.com/@oguzhan.bilir/http-durum-kodlar%C4%B1-tan%C4%B1m-senaryolar-ve-%C3%A7%C3%B6z%C3%BCm-%C3%B6nerileri-11a8f1ff2d42?source=rss-42da741564d4------2)
+- [STLC &lpar;Software Testing Life Cycle&rpar;: Yazılım Test Sürecini Anlamak](https://medium.com/@oguzhan.bilir/stlc-software-testing-life-cycle-yaz%C4%B1l%C4%B1m-test-s%C3%BCrecini-anlamak-88bb19e9ff64?source=rss-42da741564d4------2)
+- [Large Language Model &lpar;LLM&rpar;: Geleceği Şekillendiren Bir Teknoloji](https://medium.com/@oguzhan.bilir/large-language-model-llm-gelece%C4%9Fi-%C5%9Fekillendiren-bir-teknoloji-844217156b9e?source=rss-42da741564d4------2)
+- [Windsurf AI Derleyicisi: Yapay Zeka ile Kod Geliştirme Sürecinizi Hızlandırın](https://medium.com/@oguzhan.bilir/windsurf-ai-derleyicisi-yapay-zeka-ile-kod-geli%C5%9Ftirme-s%C3%BCrecinizi-h%C4%B1zland%C4%B1r%C4%B1n-f7dede416585?source=rss-42da741564d4------2)
+<!-- BLOG-POST-LIST:END -->
 
 [See all posts on Medium →](https://medium.com/@oguzhan.bilir)
 
