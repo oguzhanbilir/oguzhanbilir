@@ -24,16 +24,65 @@
 
 ## 🎓 Credentials & Mentoring
 
-| Certification | Issuer | Year |
-|---------------|--------|------|
-| **AP Cybersecurity Educator** | College Board | 2024 |
-| **Gemini Certified Educator** | Google for Education | 2023 |
-| **ICT/Computer Science** | Turkish Ministry of Education | 2015–2026 |
+**33 Professional Certifications**
 
-**Mentored Teams:**
-- **TÜBİTAK 2204-A** (Phishing detection) — 2nd place, Adana regional, 2024
+### Yazılım Testi ve QA (3)
+| Certification | Issuer | Date |
+|---------------|--------|------|
+| Insider & Testinium Tech Hub Bootcamp Program | Insider One | Mar 2025 |
+| Test Otomasyon Patikası | Patika.dev | Mar 2025 |
+| Yazılım Testine Giriş | BTK Akademi | Feb 2025 |
+
+### Yazılım, Veri Bilimi ve Yapay Zekâ (13)
+| Certification | Issuer | Date |
+|---------------|--------|------|
+| Uygulama Tabanlı Makine Öğrenimi | Turkcell Geleceği Yazanlar | Jun 2026 |
+| Versiyon Kontrolleri: Git ve GitHub | BTK Akademi | Mar 2026 |
+| Üretken Yapay Zekâya Giriş | BTK Akademi | Nov 2025 |
+| Yapay Zekâ Etiği | BTK Akademi | Nov 2025 |
+| Yapay Zeka Yaz Kampı 2025 | Miuul | Sep 2025 |
+| Python Programlama 201 | Turkcell Geleceği Yazanlar | Jun 2025 |
+| Python Programlama 101 | Turkcell Geleceği Yazanlar | Jun 2025 |
+| Data Engineering Essentials Boostcamp | Istanbul Data Science Academy | Jan 2025 |
+| Python Programming for Data Science | Miuul | Jan 2025 |
+| Veri Bilimi ve Yapay Zekaya Giriş | Turkcell | Dec 2024 |
+| Data Science and AI Engineering Mini Boot Camp | Miuul | Dec 2024 |
+| Data Analyst V2 Boostcamp | Istanbul Data Science Academy | Feb 2024 |
+| Yapay Zeka Eğitimi | Istanbul Data Science Academy | Nov 2023 |
+
+### Siber Güvenlik ve BT (3)
+| Certification | Issuer | Date |
+|---------------|--------|------|
+| **Advanced Placement® (AP) Cybersecurity Educator** | The College Board | Aug 2026 |
+| Temel Kriptoloji | BTK Akademi | Mar 2026 |
+| IT Essentials: PC Hardware and Software | Cisco | Mar 2015 |
+
+### Eğitim ve Eğitim Teknolojileri (13)
+| Certification | Issuer | Date |
+|---------------|--------|------|
+| Şiddetsiz İletişim ve Geri Bildirim | TeacherX | Jan 2026 |
+| Maarif Modeli Çerçevesinde Beceri Eğitimi | TeacherX | Jan 2026 |
+| Eğitimin Fabrika Ayarları | TeacherX | Jan 2026 |
+| Eğiticinin Eğitimi | TeacherX | Jan 2026 |
+| Yaşam Becerileri | TeacherX | Jan 2026 |
+| Öğretmenin İyi Olma Hali | TeacherX | Oct 2025 |
+| Veriye Dayalı Sınıf Yönetimi | TeacherX | Oct 2025 |
+| **Gemini Certified Educator** | Google | Nov 2025 (valid until Nov 2028) |
+| Bilişim Garajı Hizmet İçi Eğitimi Katılım | Bilişim Garajı | Sep 2025 |
+| Apple Teacher | Apple | Dec 2020 |
+| Minecraft Education Edition | BGTS | Jun 2020 |
+| Dokuz Tip Mizaç Modeli | Mizmer | Oct 2019 |
+| Microsoft Innovative Educator | Microsoft | Sep 2018 |
+
+### Başarı Belgesi (1)
+| Certification | Issuer | Date |
+|---------------|--------|------|
+| 2024 TEKNOFEST Başarı Sertifikası | TEKNOFEST | Oct 2024 |
+
+**Teaching & Mentoring:**
+- **TÜBİTAK 2204-A** (Phishing detection) — 2nd place, Adana regional, Feb 2026
 - **TÜBİTAK 2204-B** (Accessibility) — 2nd place, regional, 2024
-- **Codeavour 7.0** (Radiation mapping) — 3rd in Turkey, 2024
+- **Codeavour 7.0** (Radiation mapping) — 3rd in Turkey, Feb 2026
 - **Samsung Solve for Tomorrow** (IoT project) — Finalist, 2024
 
 ---
@@ -42,10 +91,10 @@
 
 | Project | Domain | Tech | Award | Demo |
 |---------|--------|------|-------|------|
-| **[Güvenli İnternet Asistanı](https://github.com/oguzhanbilir/guvenli_internet_asistani)** | Web Security | FastAPI, Chrome Ext, Selenium | TÜBİTAK 2nd · Adana 2026 | [Live](https://oguzhanbilir.github.io/guvenli_internet_asistani/) |
+| **[Güvenli İnternet Asistanı](https://github.com/oguzhanbilir/guvenli_internet_asistani)** | Web Security | FastAPI, Chrome Ext, Selenium | TÜBİTAK 2nd · Adana Feb 2026 | [Live](https://oguzhanbilir.github.io/guvenli_internet_asistani/) |
 | **[Amazon UI Test Suite](https://github.com/oguzhanbilir/amazon-automation-test-case-with-selenium-pom)** | QA Automation | Selenium, POM, pytest, CI/CD | Production-ready | [Repo](https://github.com/oguzhanbilir/amazon-automation-test-case-with-selenium-pom) |
-| **[Duyusal Rahatlık](https://github.com/oguzhanbilir/duyusalRahatlik)** | Accessibility | JS, HTML/CSS, WCAG | TÜBİTAK 2nd · Regional 2024 | [Extension](https://oguzhanbilir.github.io/duyusalRahatlik/) |
-| **[RadMap](https://github.com/oguzhanbilir/radMap)** | 3D Mapping | JavaScript, Three.js | Codeavour 3rd · Turkey 2024 | [Site](https://oguzhanbilir.github.io/radMap/) |
+| **[Duyusal Rahatlık](https://github.com/oguzhanbilir/duyusalRahatlik)** | Accessibility | JS, HTML/CSS, WCAG | TÜBİTAK 2nd · İzmir 2024 | [Extension](https://oguzhanbilir.github.io/duyusalRahatlik/) |
+| **[RadMap](https://github.com/oguzhanbilir/radMap)** | 3D Mapping | JavaScript, Three.js | Codeavour 3rd · Turkey Feb 2026 | [Site](https://oguzhanbilir.github.io/radMap/) |
 
 ---
 
