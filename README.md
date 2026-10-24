@@ -96,7 +96,7 @@
 | **[Sensory Comfort](https://github.com/oguzhanbilir/duyusalRahatlik)** | Accessibility | JS, HTML/CSS, WCAG | TÜBİTAK 2nd · Izmir 2024 | [Extension](https://oguzhanbilir.github.io/duyusalRahatlik/) |
 | **[RadMap](https://github.com/oguzhanbilir/radMap)** | 3D Mapping | JavaScript, Three.js | Codeavour 3rd · Turkey Feb 2026 | [Site](https://oguzhanbilir.github.io/radMap/) |
 | **Elevator Project** | Smart Systems | — | TÜBİTAK 3rd · Izmir 2022 | — |
-| **[SAYA Healthy Living](https://github.com/oguzhanbilir/sayaApp)** | Health App | Mobile App | MEF Schools 3rd · Turkey 2023 | [Repo](https://github.com/oguzhanbilir/sayaApp) |
+| **SAYA Healthy Living** | Health App | Mobile App | MEF Schools 3rd · Turkey 2023 | — |
 | **[Tooth Fairy](https://github.com/oguzhanbilir/disPerisi)** | Mobile App | Mobile App | TEKNOFEST 10th · Turkey 2024 | [Repo](https://github.com/oguzhanbilir/disPerisi) |
 
 **Systems I built for schools** (source code is private, demo on request)
