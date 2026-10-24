@@ -33,23 +33,23 @@ Danışmanlığını yaptığım öğrenci projeleri ve kendi QA çalışmaları
 | **[RadMap](https://github.com/oguzhanbilir/radMap)** | Drone ile 3B radyasyon haritalama | JavaScript, Three.js | Codeavour 7.0 · Türkiye 3.lüğü, Şubat 2026<br>Samsung Solve for Tomorrow 2026 · Finalist (final 30 Kasım'da)<br>TÜBİTAK 2204-A · Bölge sergisine davet | [Site](https://oguzhanbilir.github.io/radMap/) |
 | **[Duyusal Rahatlık](https://github.com/oguzhanbilir/duyusalRahatlik)** | Erişilebilirlik tarayıcı eklentisi | JS, HTML/CSS, WCAG | TÜBİTAK 2204-B · İzmir bölge 2.liği, 2024 | [Site](https://oguzhanbilir.github.io/duyusalRahatlik/) |
 | **[Diş Perisi](https://github.com/oguzhanbilir/disPerisi)** | Mobil uygulama | Mobil | TEKNOFEST 2024 İnsanlık Yararına Teknoloji Yarışması · Finalist, 10.luk | |
-| **SAYA Sağlıklı Yaşam** | Sağlık uygulaması | Mobil | MEF Okulları Ortaokullar Arası Proje Yarışması · Türkiye 3.lüğü, 2023 | |
+| **[SAYA Sağlıklı Yaşam](case-studies/saya.tr.md)** | Sağlık uygulaması | Mobil | MEF Okulları Ortaokullar Arası Proje Yarışması · Türkiye 3.lüğü, 2023 | |
 | **Asansör Projesi** | Akıllı sistemler | | TÜBİTAK · İzmir bölge 3.lüğü, 2022 | |
 | **[Amazon UI Test Paketi](https://github.com/oguzhanbilir/amazon-automation-test-case-with-selenium-pom)** | Insider & Testinium Tech Hub QA Tester Bootcamp bitirme projesi (2025) | Selenium, POM, pytest | | |
 
 ### Okullar için geliştirdiğim sistemler
 
-Günlük kodumun çoğu PHP ve özel depolarda duruyor. İstenirse demo gösterebilirim.
+Günlük kodumun çoğu PHP ve özel depolarda duruyor. Her sistemin kısa bir proje sayfası var; kaynak kod özel, istenirse paylaşabilirim.
 
 | Sistem | Teknoloji | Ne yapar |
 |--------|-------|--------------|
-| Envanter Takip | PHP / MySQL | Laboratuvar demirbaş takibi: roller, satın alma talebi onayı, zimmet, bakım kayıtları, QR etiketler |
-| Proje Seçim | PHP / MySQL | Öğrenciler araştırma projesi ve danışman seçer; yönetim paneli |
-| Bilim Fuarı Başvuru | PHP / MySQL | Proje yarışması için çevrim içi başvuru ve jüri değerlendirmesi |
-| Yıllık Yönetimi | PHP / SQLite | Yıllık yazılarını ve fotoğraflarını toplar, moderasyonlu |
-| EduPredict | Python / FastAPI | Kredi tabanlı raporlarla öğrenci performans tahmini |
-| YÖK Atlas Net Çekici | Python | Üniversite taban puanlarını ve netlerini Excel'e aktarır |
-| LoL Maç Asistanı | Python + React | Riot API ile maç analizi |
+| [Envanter Takip](case-studies/envanter-takip-sistemi.tr.md) | PHP / MySQL | Laboratuvar demirbaş takibi: roller, satın alma talebi onayı, zimmet, bakım kayıtları, QR etiketler |
+| [Proje Seçim](case-studies/proje-secim-sistemi.tr.md) | PHP / MySQL | Öğrenciler araştırma projesi ve danışman seçer; yönetim paneli |
+| [Bilim Fuarı Başvuru](case-studies/bilim-senligi-basvuru-sistemi.tr.md) | PHP / MySQL | Proje yarışması için çevrim içi başvuru ve jüri değerlendirmesi |
+| [Yıllık Yönetimi](case-studies/yillik-yonetim-sistemi.tr.md) | PHP / SQLite | Yıllık yazılarını ve fotoğraflarını toplar, moderasyonlu |
+| [EduPredict](case-studies/edupredict.tr.md) | Python / FastAPI | Kredi tabanlı raporlarla öğrenci performans tahmini |
+| [YÖK Atlas Net Çekici](case-studies/yokatlas-net-scraper.tr.md) | Python | Üniversite taban puanlarını ve netlerini Excel'e aktarır |
+| [LoL Maç Asistanı](case-studies/lol-mac-asistani.tr.md) | Python + React | Riot API ile maç analizi |
 
 ---
 
