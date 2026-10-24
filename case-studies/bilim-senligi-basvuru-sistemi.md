@@ -8,6 +8,12 @@ Applications for a project competition were getting lost between email and sprea
 
 A system that covers everything from application to results. It started as a simple form and grew into jury scoring, result lookup and a ceremony screen.
 
+![Public home page](images/bilim-senligi-basvuru-sistemi-1.png)
+
+![Admin panel overview](images/bilim-senligi-basvuru-sistemi-2.png)
+
+_Screenshots use made-up demo data._
+
 ## Key features
 
 - Online application form for students
