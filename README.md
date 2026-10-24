@@ -8,9 +8,13 @@
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@oguzhan.bilir)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oguzhan.bilir16@gmail.com)
 
+English | [Türkçe](README.tr.md)
+
 </div>
 
 ## About me
+
+**Open to:** QA automation, full-stack and backend developer roles.
 
 **AP Cybersecurity and ICT teacher** building tools for security education, web accessibility and test automation. I mentor high school and middle school research teams, and every course I teach ends with code the students own and maintain.
 
