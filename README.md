@@ -127,6 +127,10 @@ Most of my day-to-day code is PHP and lives in private repos. Demos are availabl
 
 ## GitHub activity
 
+<img width="100%" src="https://raw.githubusercontent.com/oguzhanbilir/oguzhanbilir/main/generated/languages.svg" alt="Languages across all my repos" />
+
+<sub>Languages across all my repos (incl. private), updated weekly.</sub>
+
 <img width="100%" src="https://raw.githubusercontent.com/oguzhanbilir/oguzhanbilir/output/snake-dark.svg" alt="contribution snake" />
 
 ---
