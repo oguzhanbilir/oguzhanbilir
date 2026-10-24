@@ -8,6 +8,12 @@ Every term, students picking a research topic and an advisor took weeks of paper
 
 A system where students make their choice within set dates, and teachers handle matching, the presentation schedule and scoring.
 
+![Student entry screen](images/proje-secim-sistemi-1.png)
+
+![Admin panel, topics tab](images/proje-secim-sistemi-2.png)
+
+_Screenshots use made-up demo data._
+
 ## Key features
 
 - Students choose a subject, teacher and topic; a choice closes when its quota is full
