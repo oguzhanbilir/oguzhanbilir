@@ -8,6 +8,12 @@ Mezuniyet yıllığı hazırlarken öğrenci yazıları ve fotoğrafları her ye
 
 Hepsini tek yerde toplayan, öğretmen onayından geçiren ve matbaaya paket halinde veren küçük bir portal.
 
+![Öğrenci sayfası ve onay durumu](images/yillik-yonetim-sistemi-1.png)
+
+![Öğretmen sınıf listesi](images/yillik-yonetim-sistemi-2.png)
+
+_Ekran görüntülerindeki veriler uydurma demo verisidir._
+
 ## Öne çıkanlar
 
 - Öğrenci yazısını yazıp fotoğrafını yüklüyor
