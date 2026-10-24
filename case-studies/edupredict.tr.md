@@ -8,6 +8,12 @@ Türkçe | [English](edupredict.md)
 
 Öğrencinin deneme netlerini girip ders ders geçmiş yılların taban değerleriyle karşılaştırdığı bir panel.
 
+![Öğrenci paneli](images/edupredict-1.png)
+
+![Yerleşme analizi](images/edupredict-2.png)
+
+_Ekran görüntülerindeki veriler uydurma demo verisidir._
+
 ## Öne çıkanlar
 
 - Her derste ne kadar açık olduğunu ve yerleşme ihtimalini gösteriyor
