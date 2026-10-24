@@ -8,6 +8,12 @@ Lab equipment was tracked in scattered spreadsheets. Nobody could say at a glanc
 
 A web app where each lab's devices, maintenance and calibration dates, faults and missing parts live in one place, with a purchase request flow on top.
 
+![Dashboard](images/envanter-takip-sistemi-1.png)
+
+![Device inventory](images/envanter-takip-sistemi-2.png)
+
+_Screenshots use made-up demo data._
+
 ## Key features
 
 - Purchase requests: the lab manager opens one, purchasing checks stock and flags similar devices already in inventory, then the principal approves or rejects with a reason
