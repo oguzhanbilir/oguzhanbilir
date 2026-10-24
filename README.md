@@ -26,7 +26,7 @@ Student projects I advised, plus my own QA work.
 | Project | What it is | Tech | Result | Links |
 |---------|-----------|------|--------|-------|
 | **[Secure Internet Assistant](https://github.com/oguzhanbilir/guvenli_internet_asistani)** | Phishing detection | FastAPI, Chrome extension, Selenium | TÜBİTAK 2204-A · 2nd, Adana regional, Feb 2026 | [Live](https://oguzhanbilir.github.io/guvenli_internet_asistani/) |
-| **[RadMap](https://github.com/oguzhanbilir/radMap)** | Drone-based 3D radiation mapping | JavaScript, Three.js | Codeavour 7.0 · 3rd in Turkey, Feb 2026 · Samsung Solve for Tomorrow 2026 · Finalist (final on Nov 30) | [Site](https://oguzhanbilir.github.io/radMap/) |
+| **[RadMap](https://github.com/oguzhanbilir/radMap)** | Drone-based 3D radiation mapping | JavaScript, Three.js | Codeavour 7.0 · 3rd in Turkey, Feb 2026<br>Samsung Solve for Tomorrow 2026 · Finalist (final on Nov 30)<br>TÜBİTAK 2204-A · Invited to regional exhibition | [Site](https://oguzhanbilir.github.io/radMap/) |
 | **[Sensory Comfort](https://github.com/oguzhanbilir/duyusalRahatlik)** | Accessibility browser extension | JS, HTML/CSS, WCAG | TÜBİTAK 2204-B · 2nd, İzmir regional, 2024 | [Site](https://oguzhanbilir.github.io/duyusalRahatlik/) |
 | **[Tooth Fairy](https://github.com/oguzhanbilir/disPerisi)** | Mobile app | Mobile | TEKNOFEST 2024 Technology for Humanity Competition · Finalist, 10th place | |
 | **SAYA Healthy Living** | Health app | Mobile | MEF Schools Inter-Middle School Project Competition · 3rd in Turkey, 2023 | |
