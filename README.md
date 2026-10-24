@@ -33,23 +33,23 @@ Student projects I advised, plus my own QA work.
 | **[RadMap](https://github.com/oguzhanbilir/radMap)** | Drone-based 3D radiation mapping | JavaScript, Three.js | Codeavour 7.0 · 3rd in Turkey, Feb 2026<br>Samsung Solve for Tomorrow 2026 · Finalist (final on Nov 30)<br>TÜBİTAK 2204-A · Invited to regional exhibition | [Site](https://oguzhanbilir.github.io/radMap/) |
 | **[Sensory Comfort](https://github.com/oguzhanbilir/duyusalRahatlik)** | Accessibility browser extension | JS, HTML/CSS, WCAG | TÜBİTAK 2204-B · 2nd, İzmir regional, 2024 | [Site](https://oguzhanbilir.github.io/duyusalRahatlik/) |
 | **[Tooth Fairy](https://github.com/oguzhanbilir/disPerisi)** | Mobile app | Mobile | TEKNOFEST 2024 Technology for Humanity Competition · Finalist, 10th place | |
-| **SAYA Healthy Living** | Health app | Mobile | MEF Schools Inter-Middle School Project Competition · 3rd in Turkey, 2023 | |
+| **[SAYA Healthy Living](case-studies/saya.md)** | Health app | Mobile | MEF Schools Inter-Middle School Project Competition · 3rd in Turkey, 2023 | |
 | **Elevator Project** | Smart systems | | TÜBİTAK · 3rd, İzmir regional, 2022 | |
 | **[Amazon UI Test Suite](https://github.com/oguzhanbilir/amazon-automation-test-case-with-selenium-pom)** | Final project, Insider & Testinium Tech Hub QA Tester Bootcamp (2025) | Selenium, POM, pytest | | |
 
 ### Systems I built for schools
 
-Most of my day-to-day code is PHP and lives in private repos. Demos are available on request.
+Most of my day-to-day code is PHP and lives in private repos. Each system links to a short case study; the source is private and available on request.
 
 | System | Stack | What it does |
 |--------|-------|--------------|
-| Inventory Tracking | PHP / MySQL | Lab equipment inventory: roles, purchase-request approval, assignments, maintenance records, QR labels |
-| Project Selection | PHP / MySQL | Students pick research projects and advisors; admin panel |
-| Science Fair Applications | PHP / MySQL | Online applications and jury review for a project competition |
-| Yearbook Management | PHP / SQLite | Collects yearbook entries and photos, with moderation |
-| EduPredict | Python / FastAPI | Student performance prediction with credit-based reports |
-| YÖK Atlas Net Scraper | Python | Pulls university base scores and nets into Excel |
-| LoL Match Assistant | Python + React | Match analysis on the Riot API |
+| [Inventory Tracking](case-studies/envanter-takip-sistemi.md) | PHP / MySQL | Lab equipment inventory: roles, purchase-request approval, assignments, maintenance records, QR labels |
+| [Project Selection](case-studies/proje-secim-sistemi.md) | PHP / MySQL | Students pick research projects and advisors; admin panel |
+| [Science Fair Applications](case-studies/bilim-senligi-basvuru-sistemi.md) | PHP / MySQL | Online applications and jury review for a project competition |
+| [Yearbook Management](case-studies/yillik-yonetim-sistemi.md) | PHP / SQLite | Collects yearbook entries and photos, with moderation |
+| [EduPredict](case-studies/edupredict.md) | Python / FastAPI | Student performance prediction with credit-based reports |
+| [YÖK Atlas Net Scraper](case-studies/yokatlas-net-scraper.md) | Python | Pulls university base scores and nets into Excel |
+| [LoL Match Assistant](case-studies/lol-mac-asistani.md) | Python + React | Match analysis on the Riot API |
 
 ---
 
