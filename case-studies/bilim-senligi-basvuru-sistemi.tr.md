@@ -8,6 +8,12 @@ Proje yarışmasındaki başvurular e-posta ve tablolar arasında kayboluyordu.
 
 Başvurudan sonuç ilanına kadar her şeyi tek yerde toplayan bir sistem. Önce basit bir formdu, sonra jüri puanlaması, sonuç sorgulama ve tören ekranıyla büyüdü.
 
+![Açılış sayfası](images/bilim-senligi-basvuru-sistemi-1.png)
+
+![Yönetim paneli özeti](images/bilim-senligi-basvuru-sistemi-2.png)
+
+_Ekran görüntülerindeki veriler uydurma demo verisidir._
+
 ## Öne çıkanlar
 
 - Öğrenciler için çevrim içi başvuru formu
