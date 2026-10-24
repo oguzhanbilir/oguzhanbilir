@@ -8,6 +8,12 @@ Students preparing for the university entrance exam wanted to know how close the
 
 A dashboard where students enter mock exam scores and compare them with past years' cut-off values, per subject.
 
+![Student dashboard](images/edupredict-1.png)
+
+![Placement analysis](images/edupredict-2.png)
+
+_Screenshots use made-up demo data._
+
 ## Key features
 
 - Shows the gap per subject and a placement estimate
