@@ -8,23 +8,65 @@
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@oguzhan.bilir)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oguzhan.bilir16@gmail.com)
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
-
 </div>
 
-## 💻 About me
+## About me
 
-**AP Cybersecurity and ICT teacher** building tools for security education, web accessibility, and test automation. I mentor high school research teams that place at national competitions. Every course I teach ends with shipped code students own and maintain.
+**AP Cybersecurity and ICT teacher** building tools for security education, web accessibility and test automation. I mentor high school and middle school research teams, and every course I teach ends with code the students own and maintain.
 
-**Technical focus:** Phishing detection (NLP + linguistic analysis) · Accessibility (WCAG 2.1 compliance) · Test automation (Selenium POM + pytest) · Full stack (Python, JavaScript, PHP, FastAPI)
-
-**Experience:** 11 years teaching K-12 in Turkey · Certified AP Cybersecurity Educator (College Board) · Google-certified ICT educator · Mentored 4 national competition winners
+- **Focus:** phishing detection (NLP + linguistic analysis) · accessibility (WCAG 2.1) · test automation (Selenium POM + pytest) · full stack (PHP, Python, JavaScript, FastAPI)
+- **Background:** 11 years teaching K-12 in Turkey · College Board AP Cybersecurity Educator · Google Gemini Certified Educator · Microsoft Innovative Educator
 
 ---
 
-## 🎓 Credentials & Mentoring
+## Projects
 
-**33 Professional Certifications**
+Student projects I advised, plus my own QA work.
+
+| Project | What it is | Tech | Result | Links |
+|---------|-----------|------|--------|-------|
+| **[Secure Internet Assistant](https://github.com/oguzhanbilir/guvenli_internet_asistani)** | Phishing detection | FastAPI, Chrome extension, Selenium | TÜBİTAK 2204-A · 2nd, Adana regional, Feb 2026 | [Live](https://oguzhanbilir.github.io/guvenli_internet_asistani/) |
+| **[RadMap](https://github.com/oguzhanbilir/radMap)** | Drone-based 3D radiation mapping | JavaScript, Three.js | Codeavour 7.0 · 3rd in Turkey, Feb 2026 | [Site](https://oguzhanbilir.github.io/radMap/) |
+| **[Sensory Comfort](https://github.com/oguzhanbilir/duyusalRahatlik)** | Accessibility browser extension | JS, HTML/CSS, WCAG | TÜBİTAK 2204-B · 2nd, İzmir regional, 2024 | [Site](https://oguzhanbilir.github.io/duyusalRahatlik/) |
+| **[Tooth Fairy](https://github.com/oguzhanbilir/disPerisi)** | Mobile app | Mobile | TEKNOFEST 2024 Technology for Humanity Competition · Finalist, 10th place | |
+| **SAYA Healthy Living** | Health app | Mobile | MEF Schools Inter-Middle School Project Competition · 3rd in Turkey, 2023 | |
+| **Elevator Project** | Smart systems | | TÜBİTAK · 3rd, İzmir regional, 2022 | |
+| **IoT project** | IoT | | Samsung Solve for Tomorrow · Finalist, 2024 | |
+| **[Amazon UI Test Suite](https://github.com/oguzhanbilir/amazon-automation-test-case-with-selenium-pom)** | UI test automation (own project) | Selenium, POM, pytest | | |
+
+### Systems I built for schools
+
+Most of my day-to-day code is PHP and lives in private repos. Demos are available on request.
+
+| System | Stack | What it does |
+|--------|-------|--------------|
+| Inventory Tracking | PHP / MySQL | Lab equipment inventory: roles, purchase-request approval, assignments, maintenance records, QR labels |
+| Project Selection | PHP / MySQL | Students pick research projects and advisors; admin panel |
+| Science Fair Applications | PHP / MySQL | Online applications and jury review for a project competition |
+| Yearbook Management | PHP / SQLite | Collects yearbook entries and photos, with moderation |
+| EduPredict | Python / FastAPI | Student performance prediction with credit-based reports |
+| YÖK Atlas Net Scraper | Python | Pulls university base scores and nets into Excel |
+| LoL Match Assistant | Python + React | Match analysis on the Riot API |
+
+---
+
+## Tech stack
+
+<div align="center">
+
+[![Skills](https://skillicons.dev/icons?i=php,py,js,fastapi,selenium,mysql,sqlite,react,html,css,git,linux&theme=dark)](https://skillicons.dev)
+
+</div>
+
+**Languages:** PHP · Python (FastAPI, Selenium, pytest) · JavaScript (browser extension APIs, React) · HTML/CSS · SQL (MySQL, SQLite)
+
+---
+
+## Certifications (33)
+
+<details>
+<summary>Show all 33 certifications</summary>
+
 
 ### Software Testing & QA (3)
 | Certification | Issuer | Date |
@@ -79,66 +121,17 @@
 |---------------|--------|------|
 | 2024 TEKNOFEST Achievement Certificate | TEKNOFEST | Oct 2024 |
 
-**Teaching & Mentoring:**
-- **TÜBİTAK 2204-A** (Phishing detection) — 2nd place, Adana regional, Feb 2026
-- **TÜBİTAK 2204-B** (Accessibility) — 2nd place, regional, 2024
-- **Codeavour 7.0** (Radiation mapping) — 3rd in Turkey, Feb 2026
-- **Samsung Solve for Tomorrow** (IoT project) — Finalist, 2024
+</details>
 
 ---
 
-## 🚀 Projects & Achievements
-
-| Project | Domain | Tech | Award | Demo |
-|---------|--------|------|-------|------|
-| **[Secure Internet Assistant](https://github.com/oguzhanbilir/guvenli_internet_asistani)** | Web Security | FastAPI, Chrome Ext, Selenium | TÜBİTAK 2nd · Adana Feb 2026 | [Live](https://oguzhanbilir.github.io/guvenli_internet_asistani/) |
-| **[Amazon UI Test Suite](https://github.com/oguzhanbilir/amazon-automation-test-case-with-selenium-pom)** | QA Automation | Selenium, POM, pytest, CI/CD | Production-ready | [Repo](https://github.com/oguzhanbilir/amazon-automation-test-case-with-selenium-pom) |
-| **[Sensory Comfort](https://github.com/oguzhanbilir/duyusalRahatlik)** | Accessibility | JS, HTML/CSS, WCAG | TÜBİTAK 2nd · Izmir 2024 | [Extension](https://oguzhanbilir.github.io/duyusalRahatlik/) |
-| **[RadMap](https://github.com/oguzhanbilir/radMap)** | 3D Mapping | JavaScript, Three.js | Codeavour 3rd · Turkey Feb 2026 | [Site](https://oguzhanbilir.github.io/radMap/) |
-| **Elevator Project** | Smart Systems | — | TÜBİTAK 3rd · Izmir 2022 | — |
-| **SAYA Healthy Living** | Health App | Mobile App | MEF Schools 3rd · Turkey 2023 | — |
-| **[Tooth Fairy](https://github.com/oguzhanbilir/disPerisi)** | Mobile App | Mobile App | TEKNOFEST 10th · Turkey 2024 | [Repo](https://github.com/oguzhanbilir/disPerisi) |
-
-**Systems I built for schools** (source code is private, demo on request)
-
-- **Inventory Tracking System**: PHP/MySQL. Lab equipment inventory with role-based access, purchase-request approval, assignments, maintenance records and QR labels.
-- **Project Selection System**: PHP/MySQL. Students pick research projects and advisors, with an admin panel.
-- **Science Fair Application System**: PHP/MySQL. Online applications and jury review for a research project competition.
-- **Yearbook Management System**: PHP/SQLite. Collects student yearbook entries and photos, with moderation.
-- **EduPredict**: Python/FastAPI. Student performance prediction with a credit-based report system.
-- **YÖK Atlas Net Scraper**: Python. Pulls university base scores and nets into Excel.
-- **LoL Match Assistant**: Python + React. Match analysis using the Riot API.
-
----
-
-## 🧰 Tech Stack
-
-<div align="center">
-
-[![My skills](https://skillicons.dev/icons?i=py,js,php,fastapi,selenium,mysql,html,css,git,linux,vscode,github&theme=dark)](https://skillicons.dev)
-
-</div>
-
-**Languages:** Python (FastAPI, Selenium, pytest) · JavaScript (Node, browser extension APIs) · PHP (legacy systems) · HTML/CSS
-
-**Specializations:** Web security assessment · Test automation (POM pattern) · Accessibility testing (WCAG 2.1) · Educational software design
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=oguzhanbilir&show_icons=true&hide_border=true&theme=tokyonight&title_color=00bcd4&icon_color=00bcd4" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhanbilir&layout=compact&hide_border=true&theme=tokyonight&title_color=00bcd4" alt="top langs" />
+## GitHub activity
 
 <img width="100%" src="https://raw.githubusercontent.com/oguzhanbilir/oguzhanbilir/output/snake-dark.svg" alt="contribution snake" />
 
-</div>
-
 ---
 
-## 📝 Writing
+## Writing
 
 I write about software testing, web fundamentals, AI, and teaching on Medium.
 
@@ -154,9 +147,9 @@ I write about software testing, web fundamentals, AI, and teaching on Medium.
 
 ---
 
-## 📫 Contact
+## Contact
 
-[oguzhan.bilir16@gmail.com](mailto:oguzhan.bilir16@gmail.com) · [LinkedIn](https://www.linkedin.com/in/oguzhanblr) · [Medium](https://medium.com/@oguzhan.bilir)
+The easiest way to reach me is [email](mailto:oguzhan.bilir16@gmail.com) or [LinkedIn](https://www.linkedin.com/in/oguzhanblr).
 
 <div align="center">
 
