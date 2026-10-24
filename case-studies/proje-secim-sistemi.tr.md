@@ -8,6 +8,12 @@ Her dönem öğrencilerin proje konusu ve danışman seçmesi kâğıt formlar v
 
 Öğrencinin belli tarihler arasında tercihini yaptığı, öğretmenlerin de eşleştirme, sunum takvimi ve puanlamayı yürüttüğü bir sistem.
 
+![Öğrenci giriş ekranı](images/proje-secim-sistemi-1.png)
+
+![Yönetim paneli, konular sekmesi](images/proje-secim-sistemi-2.png)
+
+_Ekran görüntülerindeki veriler uydurma demo verisidir._
+
 ## Öne çıkanlar
 
 - Öğrenci branş, öğretmen ve konu seçiyor; kontenjan dolunca seçim kapanıyor
