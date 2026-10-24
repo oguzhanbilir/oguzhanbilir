@@ -8,6 +8,12 @@ While putting together a graduation yearbook, student texts and photos arrived f
 
 A small portal that collects everything in one place, runs it past teacher review and hands it to the printer as a package.
 
+![Student page and review status](images/yillik-yonetim-sistemi-1.png)
+
+![Teacher class list](images/yillik-yonetim-sistemi-2.png)
+
+_Screenshots use made-up demo data._
+
 ## Key features
 
 - Students write their text and upload a photo
