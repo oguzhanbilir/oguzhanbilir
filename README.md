@@ -99,6 +99,16 @@
 | **[SAYA Healthy Living](https://github.com/oguzhanbilir/sayaApp)** | Health App | Mobile App | MEF Schools 3rd · Turkey 2023 | [Repo](https://github.com/oguzhanbilir/sayaApp) |
 | **[Tooth Fairy](https://github.com/oguzhanbilir/disPerisi)** | Mobile App | Mobile App | TEKNOFEST 10th · Turkey 2024 | [Repo](https://github.com/oguzhanbilir/disPerisi) |
 
+**Systems I built for schools** (source code is private, demo on request)
+
+- **Inventory Tracking System**: PHP/MySQL. Lab equipment inventory with role-based access, purchase-request approval, assignments, maintenance records and QR labels.
+- **Project Selection System**: PHP/MySQL. Students pick research projects and advisors, with an admin panel.
+- **Science Fair Application System**: PHP/MySQL. Online applications and jury review for a research project competition.
+- **Yearbook Management System**: PHP/SQLite. Collects student yearbook entries and photos, with moderation.
+- **EduPredict**: Python/FastAPI. Student performance prediction with a credit-based report system.
+- **YÖK Atlas Net Scraper**: Python. Pulls university base scores and nets into Excel.
+- **LoL Match Assistant**: Python + React. Match analysis using the Riot API.
+
 ---
 
 ## 🧰 Tech Stack
