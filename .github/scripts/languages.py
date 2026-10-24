@@ -4,6 +4,7 @@ import json, os, sys, urllib.request
 from html import escape
 
 API = "https://api.github.com"
+ALIAS = {"Hack": "PHP"}  # linguist tags some .php files as Hack
 SKIP = {"Jupyter Notebook"}  # notebook JSON inflates byte counts
 COLORS = {  # GitHub linguist colors
     "PHP": "#4F5D95", "Python": "#3572A5", "JavaScript": "#f1e05a", "TypeScript": "#3178c6",
@@ -40,6 +41,7 @@ def collect():
         private += r["private"]
         for lang, n in get(r["languages_url"]).items():
             if lang not in SKIP:
+                lang = ALIAS.get(lang, lang)
                 totals[lang] = totals.get(lang, 0) + n
     print(f"repos counted: {len(repos)} (private: {private})")
     if private == 0:
@@ -52,7 +54,7 @@ def render(totals):
     ranked = sorted(totals.items(), key=lambda x: -x[1])
     top = ranked[:8]
     rest = sum(n for _, n in ranked[8:])
-    if rest:
+    if rest and round(100 * rest / total, 1) > 0:
         top.append(("Other", rest))
     items = [(k, 100 * v / total) for k, v in top]
     for k, p in items:
