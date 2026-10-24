@@ -26,12 +26,11 @@ Student projects I advised, plus my own QA work.
 | Project | What it is | Tech | Result | Links |
 |---------|-----------|------|--------|-------|
 | **[Secure Internet Assistant](https://github.com/oguzhanbilir/guvenli_internet_asistani)** | Phishing detection | FastAPI, Chrome extension, Selenium | TÜBİTAK 2204-A · 2nd, Adana regional, Feb 2026 | [Live](https://oguzhanbilir.github.io/guvenli_internet_asistani/) |
-| **[RadMap](https://github.com/oguzhanbilir/radMap)** | Drone-based 3D radiation mapping | JavaScript, Three.js | Codeavour 7.0 · 3rd in Turkey, Feb 2026 | [Site](https://oguzhanbilir.github.io/radMap/) |
+| **[RadMap](https://github.com/oguzhanbilir/radMap)** | Drone-based 3D radiation mapping | JavaScript, Three.js | Codeavour 7.0 · 3rd in Turkey, Feb 2026 · Samsung Solve for Tomorrow 2026 · Finalist (final on Nov 30) | [Site](https://oguzhanbilir.github.io/radMap/) |
 | **[Sensory Comfort](https://github.com/oguzhanbilir/duyusalRahatlik)** | Accessibility browser extension | JS, HTML/CSS, WCAG | TÜBİTAK 2204-B · 2nd, İzmir regional, 2024 | [Site](https://oguzhanbilir.github.io/duyusalRahatlik/) |
 | **[Tooth Fairy](https://github.com/oguzhanbilir/disPerisi)** | Mobile app | Mobile | TEKNOFEST 2024 Technology for Humanity Competition · Finalist, 10th place | |
 | **SAYA Healthy Living** | Health app | Mobile | MEF Schools Inter-Middle School Project Competition · 3rd in Turkey, 2023 | |
 | **Elevator Project** | Smart systems | | TÜBİTAK · 3rd, İzmir regional, 2022 | |
-| **IoT project** | IoT | | Samsung Solve for Tomorrow · Finalist, 2024 | |
 | **[Amazon UI Test Suite](https://github.com/oguzhanbilir/amazon-automation-test-case-with-selenium-pom)** | Final project, Insider & Testinium Tech Hub QA Tester Bootcamp (2025) | Selenium, POM, pytest | | |
 
 ### Systems I built for schools
@@ -71,7 +70,7 @@ Most of my day-to-day code is PHP and lives in private repos. Demos are availabl
 ### Software Testing & QA (3)
 | Certification | Issuer | Date |
 |---------------|--------|------|
-| Insider & Testinium Tech Hub Bootcamp Program | Insider One | Mar 2025 |
+| Insider & Testinium Tech Hub QA Tester Bootcamp | Insider One | Mar 2025 |
 | Test Automation Path | Patika.dev | Mar 2025 |
 | Introduction to Software Testing | BTK Academy | Feb 2025 |
 
