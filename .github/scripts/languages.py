@@ -56,7 +56,7 @@ def render(totals):
     rest = sum(n for _, n in ranked[8:])
     if rest and round(100 * rest / total, 1) > 0:
         top.append(("Other", rest))
-    items = [(k, 100 * v / total) for k, v in top]
+    items = [(k, 100 * v / total) for k, v in top if round(100 * v / total, 1) > 0]
     for k, p in items:
         print(f"{k}: {p:.1f}%")
 
