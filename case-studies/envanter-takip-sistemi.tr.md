@@ -8,6 +8,12 @@ Laboratuvar cihazları dağınık tablolarda takip ediliyordu. Hangi cihazın ar
 
 Her laboratuvarın cihazlarını, bakım ve kalibrasyon tarihlerini, arızalarını ve eksik parçalarını tek yerde tutan, üstüne satın alma talep akışı eklenmiş bir web uygulaması.
 
+![Gösterge paneli](images/envanter-takip-sistemi-1.png)
+
+![Cihaz envanteri](images/envanter-takip-sistemi-2.png)
+
+_Ekran görüntülerindeki veriler uydurma demo verisidir._
+
 ## Öne çıkanlar
 
 - Satın alma talebi: laboratuvar sorumlusu açıyor, satın alma stok kontrolü yapıp envanterdeki benzer cihazları not düşüyor, müdür onaylıyor ya da gerekçe yazıp reddediyor
