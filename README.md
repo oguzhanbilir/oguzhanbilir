@@ -32,7 +32,7 @@ Student projects I advised, plus my own QA work.
 | **SAYA Healthy Living** | Health app | Mobile | MEF Schools Inter-Middle School Project Competition · 3rd in Turkey, 2023 | |
 | **Elevator Project** | Smart systems | | TÜBİTAK · 3rd, İzmir regional, 2022 | |
 | **IoT project** | IoT | | Samsung Solve for Tomorrow · Finalist, 2024 | |
-| **[Amazon UI Test Suite](https://github.com/oguzhanbilir/amazon-automation-test-case-with-selenium-pom)** | UI test automation (own project) | Selenium, POM, pytest | | |
+| **[Amazon UI Test Suite](https://github.com/oguzhanbilir/amazon-automation-test-case-with-selenium-pom)** | Final project, Insider & Testinium Tech Hub QA Tester Bootcamp (2025) | Selenium, POM, pytest | | |
 
 ### Systems I built for schools
 
