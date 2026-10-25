@@ -34,7 +34,7 @@ Student projects I advised, plus my own QA work.
 | **[Sensory Comfort](https://github.com/oguzhanbilir/duyusalRahatlik)** | Accessibility browser extension | JS, HTML/CSS, WCAG | TÜBİTAK 2204-B · 2nd, İzmir regional, 2024 | [Site](https://oguzhanbilir.github.io/duyusalRahatlik/) |
 | **[Tooth Fairy](https://github.com/oguzhanbilir/disPerisi)** | Mobile app | Mobile | TEKNOFEST 2024 Technology for Humanity Competition · Finalist, 10th place | |
 | **[SAYA Healthy Living](case-studies/saya.md)** | Health app | Mobile | MEF Schools Inter-Middle School Project Competition · 3rd in Turkey, 2023 | |
-| **Elevator Project** | Smart systems | | TÜBİTAK · 3rd, İzmir regional, 2022 | |
+| **[Smart Elevator](case-studies/akilli-asansor.md)** | Voice/Bluetooth-controlled elevator model | Arduino, App Inventor | TÜBİTAK · 3rd, İzmir regional, 2022 | |
 | **[Amazon UI Test Suite](https://github.com/oguzhanbilir/amazon-automation-test-case-with-selenium-pom)** | Final project, Insider & Testinium Tech Hub QA Tester Bootcamp (2025) | Selenium, POM, pytest | | |
 
 ### Systems I built for schools

@@ -34,7 +34,7 @@ Danışmanlığını yaptığım öğrenci projeleri ve kendi QA çalışmaları
 | **[Duyusal Rahatlık](https://github.com/oguzhanbilir/duyusalRahatlik)** | Erişilebilirlik tarayıcı eklentisi | JS, HTML/CSS, WCAG | TÜBİTAK 2204-B · İzmir bölge 2.liği, 2024 | [Site](https://oguzhanbilir.github.io/duyusalRahatlik/) |
 | **[Diş Perisi](https://github.com/oguzhanbilir/disPerisi)** | Mobil uygulama | Mobil | TEKNOFEST 2024 İnsanlık Yararına Teknoloji Yarışması · Finalist, 10.luk | |
 | **[SAYA Sağlıklı Yaşam](case-studies/saya.tr.md)** | Sağlık uygulaması | Mobil | MEF Okulları Ortaokullar Arası Proje Yarışması · Türkiye 3.lüğü, 2023 | |
-| **Asansör Projesi** | Akıllı sistemler | | TÜBİTAK · İzmir bölge 3.lüğü, 2022 | |
+| **[Akıllı Asansör](case-studies/akilli-asansor.tr.md)** | Ses/Bluetooth kontrollü asansör modeli | Arduino, App Inventor | TÜBİTAK · İzmir bölge 3.lüğü, 2022 | |
 | **[Amazon UI Test Paketi](https://github.com/oguzhanbilir/amazon-automation-test-case-with-selenium-pom)** | Insider & Testinium Tech Hub QA Tester Bootcamp bitirme projesi (2025) | Selenium, POM, pytest | | |
 
 ### Okullar için geliştirdiğim sistemler
