@@ -30,11 +30,11 @@ Danışmanlığını yaptığım öğrenci projeleri ve kendi QA çalışmaları
 | Proje | Nedir | Teknoloji | Sonuç | Bağlantılar |
 |---------|-----------|------|--------|-------|
 | **[Güvenli İnternet Asistanı](https://github.com/oguzhanbilir/guvenli_internet_asistani)** | Oltalama tespiti | FastAPI, Chrome eklentisi, Selenium | TÜBİTAK 2204-A · Adana bölge 2.liği, Şubat 2026 | [Canlı](https://oguzhanbilir.github.io/guvenli_internet_asistani/) |
-| **[RadMap](https://github.com/oguzhanbilir/radMap)** | Drone ile 3B radyasyon haritalama | JavaScript, Three.js | Codeavour 7.0 · Türkiye 3.lüğü, Şubat 2026<br>Samsung Solve for Tomorrow 2026 · Finalist (final 30 Kasım'da)<br>TÜBİTAK 2204-A · Bölge sergisine davet | [Site](https://oguzhanbilir.github.io/radMap/) |
+| **[RadMap](https://github.com/oguzhanbilir/radMap)** | Drone ile 3B radyasyon haritalama | JavaScript, Three.js | Codeavour 7.0 · Türkiye 3.lüğü, SANKODE Intelligence takımı, Şubat 2026<br>Samsung Solve for Tomorrow 2026 · Türkiye finalisti, GeigerTim takımı (final 30 Kasım'da)<br>TÜBİTAK 2204-A · Adana bölge sergisine davet | [Site](https://oguzhanbilir.github.io/radMap/) |
 | **[Duyusal Rahatlık](https://github.com/oguzhanbilir/duyusalRahatlik)** | Erişilebilirlik tarayıcı eklentisi | JS, HTML/CSS, WCAG | TÜBİTAK 2204-B · İzmir bölge 2.liği, 2024 | [Site](https://oguzhanbilir.github.io/duyusalRahatlik/) |
 | **[Diş Perisi](https://github.com/oguzhanbilir/disPerisi)** | Mobil uygulama | Mobil | TEKNOFEST 2024 İnsanlık Yararına Teknoloji Yarışması · Finalist, 10.luk | |
 | **[SAYA Sağlıklı Yaşam](case-studies/saya.tr.md)** | Sağlık uygulaması | Mobil | MEF Okulları Ortaokullar Arası Proje Yarışması · Türkiye 3.lüğü, 2023 | |
-| **[Akıllı Asansör](case-studies/akilli-asansor.tr.md)** | Ses/Bluetooth kontrollü asansör modeli | Arduino, App Inventor | TÜBİTAK · İzmir bölge 3.lüğü, 2022 | |
+| **[Akıllı Asansör](case-studies/akilli-asansor.tr.md)** | Ses/Bluetooth kontrollü asansör modeli | Arduino, App Inventor | TÜBİTAK 2204-B · İzmir bölge 3.lüğü, 2022 | |
 | **[Amazon UI Test Paketi](https://github.com/oguzhanbilir/amazon-automation-test-case-with-selenium-pom)** | Insider & Testinium Tech Hub QA Tester Bootcamp bitirme projesi (2025) | Selenium, POM, pytest | | |
 
 ### Okullar için geliştirdiğim sistemler

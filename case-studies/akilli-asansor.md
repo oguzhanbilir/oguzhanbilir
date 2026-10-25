@@ -26,7 +26,7 @@ Advisor and developer: I wrote the firmware with the student and guided design a
 
 ## Result
 
-TÜBİTAK 2204 · 3rd, İzmir regional, 2022.
+TÜBİTAK 2204-B · 3rd, İzmir regional, 2022.
 
 ---
 

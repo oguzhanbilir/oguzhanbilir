@@ -26,7 +26,7 @@ Danışman ve geliştirici: yazılımı öğrenciyle birlikte yazdım, tasarım 
 
 ## Sonuç
 
-TÜBİTAK 2204 · İzmir bölge 3.lüğü, 2022.
+TÜBİTAK 2204-B · İzmir bölge 3.lüğü, 2022.
 
 ---
 
